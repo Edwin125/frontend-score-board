@@ -1,4 +1,4 @@
-# co0574df5af604b872653f34f
+# score board demo
 
 Quick start:
 
